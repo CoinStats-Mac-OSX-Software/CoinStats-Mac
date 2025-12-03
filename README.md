@@ -9,7 +9,7 @@
 
 <img src="https://coinstats.app/_next/image/?url=%2Fimages%2Fpresskit%2Fcoinstats_circle_logo.png&w=384&q=75" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/coinstats">
+<a href="https://mac-apps-install.github.io/.github/coinstats">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
